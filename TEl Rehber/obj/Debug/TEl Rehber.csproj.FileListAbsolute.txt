@@ -1,0 +1,10 @@
+C:\Users\tamer\source\repos\Tel Rehber\TEl Rehber\bin\Debug\TEl Rehber.exe.config
+C:\Users\tamer\source\repos\Tel Rehber\TEl Rehber\bin\Debug\TEl Rehber.exe
+C:\Users\tamer\source\repos\Tel Rehber\TEl Rehber\bin\Debug\TEl Rehber.pdb
+C:\Users\tamer\source\repos\Tel Rehber\TEl Rehber\obj\Debug\TEl Rehber.csprojAssemblyReference.cache
+C:\Users\tamer\source\repos\Tel Rehber\TEl Rehber\obj\Debug\TEl_Rehber.Form1.resources
+C:\Users\tamer\source\repos\Tel Rehber\TEl Rehber\obj\Debug\TEl_Rehber.Properties.Resources.resources
+C:\Users\tamer\source\repos\Tel Rehber\TEl Rehber\obj\Debug\TEl Rehber.csproj.GenerateResource.cache
+C:\Users\tamer\source\repos\Tel Rehber\TEl Rehber\obj\Debug\TEl Rehber.csproj.CoreCompileInputs.cache
+C:\Users\tamer\source\repos\Tel Rehber\TEl Rehber\obj\Debug\TEl Rehber.exe
+C:\Users\tamer\source\repos\Tel Rehber\TEl Rehber\obj\Debug\TEl Rehber.pdb
